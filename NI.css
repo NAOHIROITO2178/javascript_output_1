@@ -1,0 +1,15 @@
+ body{
+   text-align: center;
+   background-color: #efefef;
+ }
+
+ header{
+   font-size: 60px;
+   color:red;
+   background-color: rgb(95, 196, 91);
+   margin-left:60px;
+   margin-right:60px;
+   font-weight: bold;
+ }
+
+ 
